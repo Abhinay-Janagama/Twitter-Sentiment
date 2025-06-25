@@ -1,5 +1,3 @@
-# Twitter-Sentiment
-Public sentiment on AI and ChatGpt
 # Twitter Sentiment Analysis on AI and ChatGPT
 
 This project analyzes public sentiment on AI and ChatGPT using Twitter data. It uses text preprocessing, VADER sentiment analysis, and various visualizations to explore how people feel about these technologies.
